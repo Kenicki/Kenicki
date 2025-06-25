@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kelvin Chege
+# 👋 Hi, I'm Kelvin 
 
 Welcome to my GitHub profile! I'm a data-driven problem solver passionate about using technology to create insights, build intelligent systems, and drive impactful decisions.
 
